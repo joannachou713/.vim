@@ -1,6 +1,7 @@
 # My .vimrc
 ## Plugin List
 * coc.nvim
+  * coc-tabnine
 * nerdcommenter
 * vim-airline
 * vim-devicons
