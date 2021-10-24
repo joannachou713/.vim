@@ -15,9 +15,6 @@ git clone https://github.com/vim-airline/vim-airline.git
 # Installing devicons
 git clone https://github.com/ryanoasis/vim-devicons.git
 
-# Installing horizon theme from vscode
-git clone https://github.com/ntk148v/vim-horizon.git
-
 # Installing ctrlp.vim
 git clone https://github.com/ctrlpvim/ctrlp.vim.git
 
@@ -29,6 +26,9 @@ git clone https://github.com/vim-airline/vim-airline-themes.git
 
 # Installing gitgutter
 git clone https://github.com/airblade/vim-gitgutter.git
+
+# Installing horizon theme from vscode
+git clone https://github.com/ntk148v/vim-horizon.git
 
 # Installing solarized8 theme
 git clone https://github.com/lifepillar/vim-solarized8.git
