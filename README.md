@@ -16,6 +16,7 @@
 
 ## Installing Plugins 
 ```
+# clone this project to ~/
 chmod u+x install.sh  # May need to chmod before executing
 ./install.sh
 ```
